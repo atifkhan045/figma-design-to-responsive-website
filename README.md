@@ -1,4 +1,4 @@
-Registration Form Validation
+Registration Form Validation in a website and this websiite design is converted figma design to code.
 This project contains a simple HTML registration form with client-side validation using vanilla JavaScript. The form checks for valid user inputs such as first name, last name, phone number, email, and password before submission.
 
 Features

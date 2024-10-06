@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', function() {
       }
 
       if (password.length < 8) {
-          document.getElementById('passwordError').textContent = 'Password must be at least 6 characters';
+          document.getElementById('passwordError').textContent = 'Password must be at least 8 characters';
           isValid = false;
       }
 
